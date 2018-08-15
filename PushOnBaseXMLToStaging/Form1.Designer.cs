@@ -59,16 +59,18 @@
             // 
             // txtSource
             // 
+            this.txtSource.Font = new System.Drawing.Font("Microsoft Tai Le", 9.75F, System.Drawing.FontStyle.Bold);
             this.txtSource.Location = new System.Drawing.Point(12, 31);
             this.txtSource.Name = "txtSource";
-            this.txtSource.Size = new System.Drawing.Size(277, 20);
+            this.txtSource.Size = new System.Drawing.Size(277, 24);
             this.txtSource.TabIndex = 4;
             // 
             // txtDestination
             // 
+            this.txtDestination.Font = new System.Drawing.Font("Microsoft Tai Le", 9.75F, System.Drawing.FontStyle.Bold);
             this.txtDestination.Location = new System.Drawing.Point(12, 82);
             this.txtDestination.Name = "txtDestination";
-            this.txtDestination.Size = new System.Drawing.Size(277, 20);
+            this.txtDestination.Size = new System.Drawing.Size(277, 24);
             this.txtDestination.TabIndex = 5;
             // 
             // label1
